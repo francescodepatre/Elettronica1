@@ -1,0 +1,9 @@
+Trova soluzuioni parametriche (richiede calc. con CAS)
+```
+solve(..., x)
+```
+
+Risolvi sistema
+```
+solve([sist in x, y], x, y)
+```

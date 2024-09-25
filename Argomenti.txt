@@ -1,0 +1,60 @@
+Studio elettronica
+
+Semiconduttori
+
+[ ] Silicio, drogaggio
+[ ] Drogaggio non uniforme
+[ ] Giunzione pn
+[ ] Funzionamento
+[ ] Modello a soglia
+[ ] Utilizzi diodo
+[ ] Limitatori, rilevatori di massimo e minimo
+[ ] Problemi diodo
+[ ] Analisi dinamica
+
+Transistor
+
+[-] Modello Ebers Moll
+[-] Regioni funzionamento
+[ ] Applicazioni e configurazioni
+[ ] Relazione ingresso uscita
+[-] Modello a soglia
+[-] Invertitore RTL
+[ ] Altri invertitori e reti di invertitori
+[-] Fan out
+[-] Modello dinamico BJT
+[ ] Logica TTL statica, immunità disturbi
+[ ] Logica ECL
+
+MOS
+
+[ ] Basi
+[ ] Capacità, tensione di soglia
+[ ] Transistore MOS
+[ ] Pinch-off, invertitore a carico pass
+[ ] Pull-up, pull-down
+[ ] Tensioni di soglia
+[ ] pMOS
+[ ] Analisi CMOS
+[ ] Invertitori MOS e pMOS
+[ ] Margine immunità disturbi
+[ ] Prestazioni, capacità parassite
+[ ] Potenza dissipata
+[ ] Tempo di propagazione
+[ ] Logica PE
+[ ] Reti sincrone
+
+Tipi Esercizi
+[ ] MOS (mod. soglia)
+    [ ] Caratteristica statica
+    [ ] Valori per cui condizioni
+        [ ] Tempo propagazione
+        [ ] Tensione soglia logica
+        [ ] Escursione DVu
+        [ ] Potenza statica media dissipata con ing periodico
+    [ ] Tempo propagazione
+    [ ] Margine disturbi
+[ ] Transistor
+    [ ] Caratteristica statica trasferimento Vu(Vi)
+    [ ] Ritardo propagazione (misto)
+    [ ] Valore tensione logica (misto)
